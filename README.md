@@ -1,4 +1,4 @@
-# TRABAJOS SQL
+# TRABAJOS 1º DAM BASES DE DATOS
 
 Están todos los trabajos que tube que realizar en la asignatura "Bases De Datos" del Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma). 
 
