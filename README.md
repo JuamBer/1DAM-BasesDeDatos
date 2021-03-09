@@ -6,7 +6,7 @@ Están todos los trabajos que tube que realizar en la asignatura "Bases De Datos
 
 * **SQL**  
 
-## PROGRAMA UTILIZADO 📌
+## Pograma Utilizado 📌
 
 * **MySQL WorkBench 8.0 CE**
 
