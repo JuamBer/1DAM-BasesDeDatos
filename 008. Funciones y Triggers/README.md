@@ -1,0 +1,12 @@
+# OCTABA PRÁCTICA DE SQL
+
+Trigger, funciones y variables
+
+## NUEVAS SENTENCIAS
+* **CREATE TRIGGER**
+* **BEFORE INSERT**
+* **BEGIN END**
+* **IF, THEN, ENDIF**
+* **SET**
+* **NEW, OLD**
+* **CREATE FUNCTION, RETURNS**
